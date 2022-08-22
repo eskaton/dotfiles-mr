@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/tmux.git]
-checkout = vcsh clone https://github.com/eskaton/dotfiles-tmux.git zsh
+checkout = vcsh clone https://github.com/eskaton/dotfiles-tmux.git tmux
