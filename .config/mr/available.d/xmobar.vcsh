@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/xmobar.git]
-checkout = vcsh clone git://github.com/eskaton/dotfiles-xmobar.git xmobar
+checkout = vcsh clone https://github.com/eskaton/dotfiles-xmobar.git xmobar
