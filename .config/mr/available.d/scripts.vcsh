@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/scripts.git]
+checkout = vcsh clone https://github.com/eskaton/scripts.git scripts
